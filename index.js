@@ -3,7 +3,7 @@
  * @author Surmon.me
  */
 
-window.Quill = require('quill/dist/quill.js')
+
 var quillEditor = require('./editor.vue')
 var VueQuillEditor = {
   Quill: Quill,
